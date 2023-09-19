@@ -1,0 +1,29 @@
+.continer{
+    text-align: center;
+}
+.continer h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+.continer p{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.continer button{
+    padding: 20px 50px;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 15px;
+    transition: 1s all;
+}
+button:hover{
+    background-color: dodgerblue;
+    color: white;
+}
+#quote{
+    margin:40px 0 ;
+    font-size: 20px;
+}
+#outher{
+    font-size: 20px;
+}
